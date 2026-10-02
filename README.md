@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @OctavianIlie
-- 📫 How to reach me ilieoctavian53@yahoo.com
+### 👋 Hi, I'm Octavian
 
-<!---
-OctavianIlie/OctavianIlie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building [Octlitch Linux](https://github.com/OctavianIlie/octlitch)  
+Linux · KDE Plasma · Open Source
+
+📫 ilieoctavian53@yahoo.com
