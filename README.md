@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Octavian
 
-Building [Octlitch Linux](https://github.com/OctavianIlie/octlitch)  
-Linux · KDE Plasma · Open Source
+Infrastructure Engineer · Linux enthusiast · Open-source builder
+
+Currently building [Octlitch Linux](https://github.com/OctavianIlie/octlitch)
 
 📫 ilieoctavian53@yahoo.com
